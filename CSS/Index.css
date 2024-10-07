@@ -1,0 +1,247 @@
+*
+{
+    cursor: pointer;
+}
+.Home-page-pro
+{
+    width: 100%;
+    height:auto;
+    /* border: 1px solid red; */
+}
+.poster img
+{
+    height: 150px;
+    width: 100%;
+}
+.poster2 img
+{
+    height: 150px;
+    /* width: 97vw; */
+    width: 100%;
+    /* border: 1px solid; */
+}
+.poster-img 
+{
+    display: flex;
+    justify-content: space-around;
+}
+.poster-img img
+{
+    display: flex;
+    width: 32%;
+    height: 200px;
+    /* border: 1px solid red; */
+}
+#colorcombo
+{
+    color: #0d0e06dc;
+}
+.Home-page-pro-div
+{
+    width: 100%;
+    height:auto;
+    /* border: 1px solid red; */
+    background-color: #ffffff;
+    color: #0F1111;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.Home-page-pro-div-heading
+{
+    font-size: 20px;
+    font-weight: 700;
+    border-top:1px solid #edd2d2 ;
+    border-bottom:1px solid #edd2d2 ;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    background-color: #ffffff;
+}
+.Home-page-pro-div-heading-pro
+{
+    border:1px solid #edd2d2 ;
+    width: 17vw;
+    padding: 1px;
+    height: 300px;
+    margin: 5px 10px 10px 20px;
+    background-color: #ffffff;
+}
+#Home-page-pro-div-heading-pro-img
+{
+    height: 200px;
+    text-align: center;
+}
+#Home-page-pro-div-heading-pro-img img
+{
+    height: 180px;
+    width: 12vw;
+    background-color: #f7f7f7;
+    margin-top: 10px;
+}
+#Home-page-pro-div-heading-pro-img-lap img
+{
+    height: 160px;
+    width: 16vw;
+    background-color: #f7f7f7;
+    margin-left: 8px;
+    margin-top: 10px;
+
+}
+#Home-page-pro-div-heading-pro-offer
+{
+    height: 30px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+}
+#Home-page-pro-div-heading-pro-offer div
+{
+    height: 15px;
+    /* border: 1px solid red; */
+    background-color: #cc0c39;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: Arial, sans-serif;
+    padding: 5px;
+    display: flex;
+}
+#Home-page-pro-div-heading-pro-offer span
+{
+    height: 15px;
+    font-size: 13px;
+    padding: 5px;
+    font-weight: 580;
+    font-family: Arial, sans-serif;
+    color: #cc0c39;
+
+}
+#Home-page-pro-div-heading-pro-mrp-1
+{
+    top: -.5em;
+    font-size: 12px;
+    font-weight: 600;
+    color: #358f8f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Home-page-pro-div-heading-pro-mrp-2
+{
+    font-size: 18px;
+    font-weight: 600;
+    color: #0f1111;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Home-page-pro-div-heading-pro-mrp-4
+{
+    font-size: 14px;
+    font-weight: 550;
+    color: #575959;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Home-page-pro-div-heading-pro-mrp-5
+{
+    text-decoration: line-through;
+
+}
+#Home-page-pro-div-heading-pro-mrp
+{
+    height: 30px;
+    /* border: 1px solid red; */
+
+}
+#Home-page-pro-div-heading-pro-name
+{
+    height: 38px;
+    font-size: 15px;
+    text-align: center;
+    color:#212161;
+    /* border: 1px solid red; */
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#Home-page-pro-div-heading-pro-name:hover{
+    color: #2874f0 ;
+
+}
+
+.Accessories-home-p
+{
+    /* border-top: 1px solid #edd2d2 ; */
+    border-bottom: 1px solid #edd2d2;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Accessories-home-product
+{
+    border: 1px solid #edd2d2;
+    text-align: center;
+    width: 23%;
+}
+.Accessories-home-p-img
+{
+display: flex;
+justify-content: center;
+width: 250px;
+align-items: center;
+height: 30vh;
+padding: 10px;
+
+
+}
+.Accessories-home-p img
+{
+max-width: 100%;
+max-height: 100%;
+object-fit: contain;
+}
+.Accessories-home-p-name
+{
+    width: 100%;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+
+}
+.pro-m-price
+{
+padding: 10px 10px 10px 0px;
+border-top: 1px solid rgb(224, 207, 207);
+border-bottom: 1px solid rgb(224, 207, 207);
+
+}
+#t
+{
+    color:#292222;
+    margin-right: 5px;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    color: #212121;
+}
+#tt
+{
+    text-decoration: line-through;
+}
+#ttt
+{
+    color:#388f3c;
+}
+.poster-navratri img
+{
+    width: 100%;
+    height: 200px;
+}
+.poster-nav-img
+{
+    display: flex;
+}
+
+.poster-nav-img img
+{
+    width: 98%;
+    justify-content: space-around;
+}

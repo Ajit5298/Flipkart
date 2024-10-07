@@ -1,0 +1,165 @@
+/* ------------------Navbar css start ----------------*/
+
+.navbar
+{
+    height: 60px;
+    background-color: #ffffff;
+    display: flex;
+}
+.logo
+{
+margin-top: 10px;
+margin-right: 35px;
+
+}
+.serch
+{
+    border: 1px solid rgb(233, 224, 224);
+    /* width: 46%; */
+    height: 32px;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 2px;
+    background-color: #f0f5ff;
+    border-radius: 7px;
+    display: flex;
+}
+#serch-disable img{
+    height: 25px;
+    padding: 5px;
+    margin: 0;
+    border: none;
+}
+#serch-input
+{
+    width: 40vw;
+    font-size: 17px;
+    height: 32px;
+    border: none;
+    outline: none;
+    background-color: #f0f5ff;
+    font-family: inter_regular,fallback-inter_regular,Arial,sans-serif;
+}
+.login-icon
+{
+    display: flex;
+    align-items: center;
+    border: 1px solid transparent;
+    box-sizing: border-box;
+    padding: 8px;
+    gap: 6px;
+    border: 1px solid red;
+    margin: 8px;
+    margin-left: 26px;
+    background: #fafafa;
+    border-radius: 8px;
+    border-color: #e0e0e0;
+    font-family: inter_regular, fallback-inter_regular, Arial, sans-serif;
+    font-size: 16px;
+    color: #000000;
+    text-decoration: none;
+}
+.login-icon:hover
+{
+    background: #0b2ce6;
+    border-color: #2a55e5;
+    color: #fff;
+    cursor: pointer;
+}
+
+#profile-icon
+{
+    /* width: 24px; */
+    height: 24px;
+    background-color: transparent;
+    
+
+}
+
+#downword
+{
+    height: 12px;
+    margin-left: 8px;
+}
+#downword:hover 
+{
+transform:rotate(180deg);
+transition: 0.1s;
+}
+.cart-icon
+{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 8px;
+    margin-left: 46px;
+    font-family: inter_regular, fallback-inter_regular, Arial, sans-serif;
+    font-size: 16px;
+    color: #000000;
+    text-decoration: none;
+}
+#end
+{
+    background-color: #f5f5f5;
+    margin-top: 3px;
+    height: 10px;
+}
+
+.verticalDots
+{
+    padding: 8px;
+    gap: 6px;
+    margin: 8px;
+    margin-left: 26px;
+}
+
+.verticalDots:hover
+{
+
+    border: 1px solid transparent;
+    box-sizing: border-box;
+    background: #fafafa;
+    border-radius: 8px;
+    border-color: #e0e0e0;
+
+}
+.sec-containor
+{
+    height: 30px;
+    display: flex;
+    border-bottom:1px solid rgb(227, 205, 205) ;
+    justify-content: space-around;
+    padding: 10px 0px 0px 1px;
+    font-size: 14px;
+    background-color:#ffffff;
+    font-family: Inter, -apple-system, Helvetica, Arial, sans-serif;
+    font-weight: 550;
+    color: #212121;
+    cursor: pointer;
+   
+}
+.sec-containor :hover
+{
+    color: #0b2ce6;
+}
+.sec-containor a{
+    display: flex;
+    gap:5px;
+    text-decoration: none;
+}
+#arrow
+{
+    font-size: 18px;
+    height: 15px;
+}
+
+.sec-containor a div:hover
+{
+    transform: rotate(180deg);
+       
+}
+
+
+
+/* ------------------Navbar css End ----------------*/
+
